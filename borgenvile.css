@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&family=La+Belle+Aurore&family=Lemonada:wght@700&family=Seaweed+Script&display=swap');
+.advertise{
+    background-color: rgb(158, 158, 16);
+    text-align: center;
+}
+.logo1{
+    height: 80px;
+    width: 80px;
+    border-radius: 100%;
+}
+#name{
+    font-family: 'Caveat', cursive;
+    
+}
+.nb{
+    background-color: rgb(222, 244, 248);
+    height: 100px;
+}
+.parent{
+    height: 386px;
+    width: 1300px;
+    border-radius: 3px;
+    background-color: rgb(222, 244, 248);
+    /* margin auto to align box in centre */
+    margin: auto; 
+    display: flex;
+    justify-content: space-around;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px 10px;
+    opacity: 0.8;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.a{
+    height: 317px;
+    width: 256px;
+    background-color: rgb(254, 254, 255);
+    margin-top: 32px;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    border-radius: 10px;
+}
+#img2{
+    width: 1519px;
+}
+#im{
+    width: 74%;
+    height: 179px;
+    margin-left: 14%;
+    opacity: 1;
+}
+p{
+    text-align: center;
+}
+.b1{
+    margin-left: 10%;
+}
+.b2{
+    margin-left: 12%;
+}
+.f1{
+    width: 1519px;
+    height: 40%;
+    background-color: rgb(237, 182, 214);
+}
+.foot1{
+    padding-left: 10%;
+    padding-top: 10%;
+}
+.foot2{
+    color: rgb(94, 92, 92);
+}
